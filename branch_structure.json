@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-162-composable-access-rules",
+    "fix/issue-118-siwe-statement-validation",
+    "fix/issue-119-reauth-banner-clear",
+    "fix/issue-138-connector-error-message",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-162-composable-access-rules": "main",
+    "fix/issue-118-siwe-statement-validation": "main",
+    "fix/issue-119-reauth-banner-clear": "main",
+    "fix/issue-138-connector-error-message": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-162-composable-access-rules",
+    "fix/issue-118-siwe-statement-validation",
+    "fix/issue-119-reauth-banner-clear",
+    "fix/issue-138-connector-error-message",
+    "origin"
+  ]
+}
