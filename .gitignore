@@ -3,8 +3,6 @@ node_modules
 out
 dist
 test-dist
-.env
-.env.local
 .env.development.local
 .env.production.local
 .env.test.local
@@ -14,3 +12,4 @@ test-dist
 CLAUDE.md
 PLAN.md
 tasks/
+config.bat
